@@ -6,4 +6,6 @@ SIMPLE ENCRYPTION:
 It fulfills the motive of whitespace encryption where the encrypted file only contains whitespaces.
 
 COMPLEX ENCRYPTION:
-This type of encryption doesn't satisfy the condition of encrypted file containing only encrypted files. The encrypted file also contain characters other than whitespace and tabspace.
+This type of encryption doesn't satisfy the condition of encrypted file containing only whitespace The encrypted file also contain characters other than whitespace and tabspace.
+
+FUTURE PLANS:Try to encrypt the original file and then whitespace_encrypt it.
