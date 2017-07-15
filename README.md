@@ -1,11 +1,11 @@
-#whitespace_encryption
-programs which whitespace_encrypts and decrypts the files. 
-there two folders: simple encryption and the other is complex encryption.
+ # whitespace encoding 
+programs which encrypts text files and encodes it into whitespaces. 
+More like steganogrpahy. 
 
 SIMPLE ENCRYPTION:
-It fulfills the motive of whitespace encryption where the encrypted file only contains whitespaces.
+It encrypts data in a file and encodes into whitespaces.
 
 COMPLEX ENCRYPTION:
-This type of encryption doesn't satisfy the condition of encrypted file containing only whitespace The encrypted file also contain characters other than whitespace and tabspace.
+Encodes data into whitespaces and writes into file filled with random characters.
 
-FUTURE PLANS: Increase the complexity of whitespace_encrypt.
+FUTURE PLANS: Increase the complexity of the encryption
