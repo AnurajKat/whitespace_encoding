@@ -19,7 +19,6 @@ int main()
     std::cout<<"enter encryption key :";
     std::cin>>enckey;
     int mul_val=0;
-    // please do suggest ideas to make the key stronger
     for(int i=0;i<enckey.length();i++)
     {
 	    if(i%2==0)

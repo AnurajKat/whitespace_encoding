@@ -46,6 +46,7 @@ int main()
 		}
 	}
 	ofile<<newline;
+	ifile.close();
 	std::cout<<"\n\ndecryption complete."<<std::endl;
 	ofile.close();
 }
